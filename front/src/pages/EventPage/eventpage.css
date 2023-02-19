@@ -1,0 +1,28 @@
+.event-page{
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    width: 100%;
+}
+
+.event-page__image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+   
+}
+
+.event-page__info{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.event-card__secondary{
+    display: flex;
+    margin-left: auto;
+    align-items: flex-end;
+    flex-direction: column;
+}

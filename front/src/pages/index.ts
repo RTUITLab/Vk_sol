@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './Info'
+export * from './Favorites'
+export * from './Profile'
+export * from './Events'
