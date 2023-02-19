@@ -1,3 +1,6 @@
 [submodule "VK-SOL-Front"]
 	path = VK-SOL-Front
 	url = https://github.com/RTUITLab/VK-SOL-Front.git
+[submodule "VK-SOL-Back"]
+	path = VK-SOL-Back
+	url = https://github.com/RTUITLab/VK-SOL-Back
