@@ -1,6 +1,0 @@
-[submodule "front"]
-	path = front
-	url = https://git.codenrock.com/vk-nft-definition/cnrprod-team-27556/front
-[submodule "back"]
-	path = back
-	url = https://git.codenrock.com/vk-nft-definition/cnrprod-team-27556/back
